@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sanath-18/Vortex-react/static/css/main.61210f47.css",
+    "main.js": "/Sanath-18/Vortex-react/static/js/main.a7ce1286.js",
+    "index.html": "/Sanath-18/Vortex-react/index.html",
+    "main.61210f47.css.map": "/Sanath-18/Vortex-react/static/css/main.61210f47.css.map",
+    "main.a7ce1286.js.map": "/Sanath-18/Vortex-react/static/js/main.a7ce1286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61210f47.css",
+    "static/js/main.a7ce1286.js"
+  ]
+}
